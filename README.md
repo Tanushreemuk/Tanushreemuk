@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanushreemuk
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html java 
+- 🌱 I’m currently learning python (Data Science) 
 - 💞️ I’m looking to collaborate on coding project 
 - 📫 How to reach me tanu1995mukherjee@gmail.com
 
